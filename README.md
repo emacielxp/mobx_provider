@@ -1,6 +1,6 @@
 # mobxexample
 
-A new Flutter application.
+App em flutter para demonstrar o uso de MobX com Provider 
 
 ## Getting Started
 
